@@ -19,6 +19,7 @@
     "typescript": "^3.5.3"
   },
   "dependencies": {
+    "aws-sdk": "^2.491.0",
     "koa": "^2.7.0"
   }
 }
